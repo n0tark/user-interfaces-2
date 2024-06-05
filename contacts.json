@@ -1,0 +1,34 @@
+{
+    "contacts": [
+        {
+            "id": "1",
+            "name": "Leonardo",
+            "phones": "1"
+        },
+        {
+            "id": "2",
+            "name": "Raphael",
+            "phones": "22"
+        },
+        {
+            "id": "3",
+            "name": "Mickelangelo",
+            "phones": "333"
+        },
+        {
+            "id": "4",
+            "name": "Donatello",
+            "phones": "4444"
+        },
+        {
+            "id": "5",
+            "name": "Rembrandt",
+            "phones": "55555"
+        },
+        {
+            "name": "Wolfgang",
+            "phones": "666666",
+            "id": "6"
+        }
+    ]
+}
